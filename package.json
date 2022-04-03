@@ -1,6 +1,6 @@
 {
   "name": "app-weather",
-  "homepage": "https://www.searchweather.com",
+  "homepage": "https://www.searchweatherapp.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
